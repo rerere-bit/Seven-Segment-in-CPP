@@ -1,2 +1,2 @@
 # Seven-Segment-in-CPP
-Making a simple seven segment display in cpp
+A simple seven-segment display implemented in C++. (Digital System assignment)
